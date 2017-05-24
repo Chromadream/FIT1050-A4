@@ -1,3 +1,14 @@
+//Calendar loading
+//calendar jQuery module: https://github.com/kthornbloom/Monthly/
+$(window).load( function() {
+        $('#mycalendar').monthly({
+            stylePast: true,
+            mode: 'event',
+            dataType: 'xml',
+            xmlUrl: 'events.xml'
+        });
+    });
+
 //hide other members detail, and change image into highres
 //Misaki
 

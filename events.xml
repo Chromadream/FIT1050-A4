@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<monthly>
+
+    <event>
+        <id>1</id>
+        <name>Exvius, Clayton</name>
+        <startdate>2017-5-26</startdate>
+        <starttime>21:00</starttime> 
+        <endtime>23:00</endtime> 
+        <color>#ffb128</color> 
+    </event>
+    <event>
+        <id>2</id>
+        <name>Enigma, Melbourne</name>
+        <startdate>2017-5-27</startdate>
+        <starttime>19:00</starttime> 
+        <endtime>23:00</endtime> 
+        <color>#ffb128</color> 
+    </event>
+    <event>
+        <id>3</id>
+        <name>Shinji, Kyoto</name>
+        <startdate>2017-5-28</startdate>
+        <starttime>19:00</starttime> 
+        <endtime>21:00</endtime> 
+        <color>#ffb128</color> 
+    </event>
+    <event>
+        <id>4</id>
+        <name>Melbourne Music Festival</name>
+        <startdate>2017-6-9</startdate>
+        <starttime>16:00</starttime> 
+        <endtime>17:00</endtime> 
+        <color>#ffb128</color> 
+    </event>
+    <event>
+        <id>5</id>
+        <name>Parousia, Ballarat</name>
+        <startdate>2017-6-9</startdate>
+        <starttime>19:00</starttime> 
+        <endtime>21:00</endtime> 
+        <color>#ffb128</color> 
+    </event>
+    <event>
+        <id>6</id>
+        <name>Melbourne Music Festival Day.2</name>
+        <startdate>2017-6-10</startdate>
+        <starttime>21:00</starttime> 
+        <endtime>23:00</endtime> 
+        <color>#ffb128</color> 
+    </event>
+
+</monthly>
